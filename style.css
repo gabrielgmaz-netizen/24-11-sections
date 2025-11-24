@@ -1,0 +1,28 @@
+header{
+    color: white;
+
+}
+.containersections{
+    display: flex;
+    color: pink;
+}
+
+.containerartigos{
+    display: flex;
+    flex-direction: column;
+    color: purple;
+    
+}
+
+.containerartigos > article{
+    margin-bottom: 2rem;
+    
+}
+
+.imagens{
+    
+}
+
+body{
+    background-color: black;
+}
